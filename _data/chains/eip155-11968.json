@@ -1,0 +1,23 @@
+{
+    "name": "Trustkey Network testnet",
+    "chain": "trustk",
+    "rpc": ["https://l1testnet.trustkeys.network"],
+    "faucets": [],
+    "nativeCurrency": {
+      "name": "Trustkey Network ",
+      "symbol": "TRUSTK",
+      "decimals": 18
+    },
+    "shortName": "trustk",
+    "chainId": 11968,
+    "networkId": 11968,
+    "slip44": 1,
+    "explorers": [
+      {
+        "name": "TrustKeys chain Testnet explorer",
+        "url": "https://l1testnetscan.trustkeys.network",
+        "standard": "none"
+      }
+    ]
+  }
+  
