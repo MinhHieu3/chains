@@ -1,5 +1,5 @@
 {
-    "name": "Trustkey Network testnet",
+    "name": "Trustkey Network",
     "chain": "trustk",
     "rpc": ["https://l1testnet.trustkeys.network"],
     "faucets": [],
