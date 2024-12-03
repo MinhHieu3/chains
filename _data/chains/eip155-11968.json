@@ -12,6 +12,7 @@
     "chainId": 11968,
     "networkId": 11968,
     "slip44": 1,
+    
     "explorers": [
       {
         "name": "TrustKeys chain Testnet explorer",
